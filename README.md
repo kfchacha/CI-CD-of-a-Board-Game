@@ -228,14 +228,14 @@ Board-Game/
 ## 🙏 Credits
 
 - Original project template: [NotHarshhaa/DevOps-Projects — Project 35](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-35)
-- Implemented & deployed by: **[Your Name]** — [@kfchacha](https://github.com/kfchacha)
+- Implemented & deployed by: **[Kenyatta Peter Chacha]** — [@kfchacha](https://github.com/kfchacha)
 
 ---
 
 ## 📬 Contact
 
 - GitHub: [@kfchacha](https://github.com/kfchacha)
-- LinkedIn: *[your LinkedIn]*
+- LinkedIn: *[https://www.linkedin.com/in/kenyatta-chacha/]*
 
 ---
 
