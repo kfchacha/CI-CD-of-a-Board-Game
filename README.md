@@ -14,7 +14,7 @@
 
 The full workflow — from a developer pushing code to a live deployed application, with security scanning, quality gates, artifact management, and automated notifications at every stage.
 
-![Pipeline Architecture](./project%20screenshots/pipeline-overview.png)
+![Pipeline Architecture](./Project%20Screenshots/pipeline-overview.png)
 
 ---
 
